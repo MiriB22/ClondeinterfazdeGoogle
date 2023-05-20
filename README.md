@@ -2,9 +2,9 @@
 
 ##  ÍNDICE  
 
-* [1.Intro].(#)
-* [2.Que construí].(#)
-* [3.Objetivo del prgrama].(#)
+* [1. Intro]()
+* [2. Qué construi]()
+* [3.Objetivo del proyecto]()
 ****
 ## 1.Intro 
 HTML 5  trabaja de la mano con CSS3  para crear páginas web que usamos todos los días en el navegador .Incluso este sitio web en donde estás viendo este contenido está construido con HTML y CSS 
@@ -19,4 +19,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 *   **Footer**: Sección que incluye hipervínculos al final de la página.
 
 ## 3.Objetivo del proyecto 
-Aprender a utlia las etiquetas estándar de HTML5  y los estilos de CSS3   
+Aprender a utilizar las etiquetas estándar de HTML5  y los estilos de CSS3   
