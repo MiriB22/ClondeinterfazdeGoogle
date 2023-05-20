@@ -3,7 +3,7 @@
 ##  ÍNDICE  
 
 * [1. Intro](https://github.com/MiriB22/ClondeinterfazdeGoogle/tree/main#1intro)
-* [2. Qué construi]()
+* [2. Qué construi](https://github.com/MiriB22/ClondeinterfazdeGoogle/blob/main/README.md#2qu%C3%A9-constru%C3%AD)
 * [3.Objetivo del proyecto]()
 ****
 ## 1.Intro 
